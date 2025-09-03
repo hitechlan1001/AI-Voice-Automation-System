@@ -15,7 +15,6 @@
     "react": "^18",
     "react-dom": "^18",
     "twilio": "^4.19.0",
-    "@types/twilio": "^4.0.0",
     "axios": "^1.7.2",
     "react-hook-form": "^7.51.0",
     "@hookform/resolvers": "^3.3.4",
